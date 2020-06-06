@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Создание кода
+D:\Projects\CPP\Seti\DNSCache\DNSCache\main.cpp(101): warning C4717: deleteDomainNSAfterTtlDie: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  3 of 650 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DNSCache.vcxproj -> D:\Projects\CPP\Seti\DNSCache\Release\DNSCache.exe

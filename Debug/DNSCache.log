@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Projects\CPP\Seti\DNSCache\DNSCache\main.cpp(68): warning C4717: deleteDomainAfterTtlDie: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  DNSCache.vcxproj -> D:\Projects\CPP\Seti\DNSCache\Debug\DNSCache.exe

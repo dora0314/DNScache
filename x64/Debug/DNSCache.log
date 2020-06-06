@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(244,71): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(244,71): error C2589: (: недопустимая лексема справа от "::"
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(244,7): error C2062: тип "unknown-type" не требуется
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(244): error C2144: синтаксическая ошибка: перед "unknown-type" требуется "("
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(244,77): error C2059: синтаксическая ошибка: )
+D:\Libs\boost_1_72_0\boost\beast\core\impl\file_stdio.ipp(245,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
